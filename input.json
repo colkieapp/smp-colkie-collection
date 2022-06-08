@@ -1,0 +1,16 @@
+{
+    "name": "Colkie packages",
+    "overview": "This collection contains forks of different Swift packages used by colkie.",
+    "keywords": [
+        "colkie",
+        "swift package"
+    ],
+    "packages": [
+        {
+            "url": "https://github.com/colkieapp/SkeletonView.git"
+        }
+    ],
+    "author": {
+        "name": "Colkie"
+    }
+}
